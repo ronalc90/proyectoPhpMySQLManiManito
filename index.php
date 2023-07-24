@@ -13,7 +13,7 @@ include 'plantilla.php';
     
 </head>
 <body>
-    
+    <div>
         <form action="procesar_busqueda.php" method="get" class="mt-4">
             <div class="form-group">
                 <label for="busqueda">Búsqueda:</label>
